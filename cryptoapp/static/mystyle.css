@@ -1,0 +1,18 @@
+body{
+  background-image: url(http://www.onlyadayaway.com/wp-content/uploads/2014/09/01-everest-base-camp-trek-day-7-dingboche-at-night.jpg);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+}
+td{
+  background-color: rgb(175, 206, 255, 0.35);
+}
+.tdtext{
+  color: white;
+}
+#pic{
+  background-color: rgb(135, 197, 255,0.75);
+}
+p.flex {
+  display: flex;
+  justify-content: space-between;
+}
